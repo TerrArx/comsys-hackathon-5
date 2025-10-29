@@ -10,7 +10,7 @@ A hackathon project developed for COMSYS Hackathon 5 on gender classification an
 
 ### Task A: Gender Classification
 - **Type:** Binary Classification  
-- **Goal:** Classify face images as male or female.  
+- **Goal:** Classification of Face Potraits as male or female.  
 - **Dataset Structure:**  
 ```
 Task_A/
